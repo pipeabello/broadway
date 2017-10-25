@@ -1,0 +1,66 @@
+img {
+	max-width: 100%;
+}
+
+.title_1 {
+	font-family: Helvetica;
+	font-size: 70px;
+	font-weight: bold;
+	color: white;
+	position: absolute;
+    top: 8px;
+    left: 16px;
+}
+
+.title_2 {
+	font-family: Helvetica;
+	font-size: 18px;
+	color: white;
+	position: absolute;
+    top: 100px;
+    left: 16px;
+}
+
+.title_3 {
+	font-family: Helvetica;
+	font-size: 18px;
+	color: white;
+	position: absolute;
+    top: 120px;
+    left: 16px;
+}
+
+.title_4 {
+	font-family: Helvetica;
+	font-size: 18px;
+	color: white;
+	position: absolute;
+    top: 140px;
+    left: 16px;
+}
+
+.title_5 {
+	font-family: Helvetica;
+	font-size: 18px;
+	color: white;
+	position: absolute;
+    top: 160px;
+    left: 16px;
+}
+
+.title_6 {
+	font-family: Helvetica;
+	font-size: 18px;
+	color: white;
+	position: absolute;
+    top: 180px;
+    left: 16px;
+}
+
+h2 {
+	font-family: Helvetica;
+	font-size: 32px;
+	font-weight: bold;
+	color: black;
+	text-align: center
+}
